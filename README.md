@@ -1,8 +1,8 @@
 - Hi, I’m Mateus Komaki Fagundes
-- 👀 I’m 
-- 🌱 I’m currently learni
+- 👀 I’m aprendendo
+- 🌱 I’m currently learni a jogar volei
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... mateus.kosmaski.fagundes@ecola.pr.gov.br
 
 <!---
 mateuskf2008/mateuskf2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
